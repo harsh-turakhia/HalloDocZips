@@ -4,6 +4,6 @@ The platform will offer online Doctors consultation and Diagnostics services. Th
 
 Developed & Managed by - Harsh Turakhia
 
-Email : harshturakhia2002@gmail.com
+Email : harsh.turakhia@etatvasoft.com
 
 Linkedin : linkedin.com/in/harsh-turakhia
